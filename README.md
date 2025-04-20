@@ -2,13 +2,13 @@
 
 A pixel-perfect **Netflix UI Clone** made with pure HTML and CSS, enhanced with interactive sections like Mood-Based Picks, Trending Now, and Continue Watching. Built with love ❤️ for the **Pixel Plus Hackathon 2025**.
 
-![Banner](https://i.imgur.com/ChzOe8k.png)
+![Banner]([https://i.imgur.com/ChzOe8k.png](https://madhyamamonline.com/h-upload/2023/08/24/2053471-netflix.jpg))
 
 ---
 
 ## 📸 Live Demo
 
-🚀 [Click here to view the live site](https://your-username.github.io/netflix-clone)
+🚀 [Click here to view the live site](https://abdullahb07.github.io/netflix-clone)
 
 ---
 
